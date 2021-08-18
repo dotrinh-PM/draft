@@ -1,4 +1,11 @@
 ==========================
+Demo & res
+==========================
+http://eel.is/c++draft
+
+https://timsong-cpp.github.io/cppwp/
+
+==========================
 C++ Standard Draft Sources
 ==========================
 
